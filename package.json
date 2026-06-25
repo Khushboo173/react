@@ -1,0 +1,28 @@
+{
+  "name": "react",
+  "version": "1.0.0",
+  "description": "This is my first react app",
+  "keywords": [],
+  "homepage": "https://github.com/Khushboo173/react#readme",
+  "bugs": {
+    "url": "https://github.com/Khushboo173/react/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Khushboo173/react.git"
+  },
+  "license": "ISC",
+  "author": "Khushboo Kashyap",
+  "scripts": {
+    "test": "jest",
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "devDependencies": {
+    "parcel": "^2.16.4"
+  },
+  "dependencies": {
+    "react": "^19.2.7",
+    "react-dom": "^19.2.7"
+  }
+}
